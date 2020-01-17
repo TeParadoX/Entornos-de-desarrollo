@@ -1,6 +1,6 @@
 
 /**
- * Write a description of class Hola here.
+ * No me seas nenaza
  *
  * @author (your name)
  * @version (a version number or a date)
