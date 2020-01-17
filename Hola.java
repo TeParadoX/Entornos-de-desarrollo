@@ -27,5 +27,17 @@ public class Hola
         System.out.println("3...");
         System.out.println("2...");
         System.out.println("1...");
+        sumar();
+    }
+    /**
+     * Este método suma 1+1
+     *
+     * @param  Nada de nada
+     * @return    Devuelve un string de suma de dos unos, pero mal calculado.
+     */
+    public static String sumar()
+    {
+        return "1+1=1";
+
     }
 }
