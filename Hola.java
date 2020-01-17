@@ -44,6 +44,15 @@ public class Hola
         return "1+1=1";
     }
 
+    /**
+     * Este metodo dice David
+     * 
+     * @param no hay que meter nada
+     * @return String de David
+     */
+    
+    
+    
     public void david()
     {
     System.out.println("David");
