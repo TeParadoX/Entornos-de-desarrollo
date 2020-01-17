@@ -1,8 +1,8 @@
 
 /**
- * No me seas nenaza
+ * No me seas nenaza..
  *
- * @author (your name)
+ * @author (Ander)
  * @version (a version number or a date)
  */
 public class Hola
