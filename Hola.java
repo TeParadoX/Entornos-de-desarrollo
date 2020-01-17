@@ -20,14 +20,13 @@ public class Hola
     }
 
     /**
-     * An example of a method - replace this comment with your own
+     * Este método suma 1+1
      *
-     * @param  y  a sample parameter for a method
-     * @return    the sum of x and y
+     * @param  Nada de nada
+     * @return    Devuelve un string de suma de dos unos, pero mal calculado.
      */
-    public int sampleMethod(int y)
+    public static String sumar()
     {
-        // put your code here
-        return x + y;
+        return "1+1=1";
     }
 }
