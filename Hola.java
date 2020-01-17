@@ -23,7 +23,7 @@ public class Hola
      * al ejecutar el objeto, en este caso escribe un texto en el 
      * terminal y ejecuta el metodo sumar.
      * 
-     * @see sumar
+     * 
      * @param no hay que introducir nada.
      * @return no devuelve nada.
      */
@@ -46,12 +46,18 @@ public class Hola
 
     public void david()
     {
-    System.out.println("David");
+        System.out.println("David");
     }
+    /**
+     * Este metodo imprime "Ander" por pantalla.
+     * 
+     * @param no hay que ingresar nada.
+     * @return no devuelve nada
+     * 
+     */
     public void ander()
     {
         System.out.println("Ander");
-
     }
 }
 
