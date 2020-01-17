@@ -43,9 +43,15 @@ public class Hola
     {
         return "1+1=1";
     }
+
     public void david()
     {
     System.out.println("David");
+    }
+    public void ander()
+    {
+        System.out.println("Ander");
+
     }
 }
 
