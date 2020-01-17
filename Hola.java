@@ -1,8 +1,8 @@
 
 /**
- * Write a description of class Hola here.
- * 
- * @author (your name) 
+ * No me seas nenaza..
+ *
+ * @author (Ander)
  * @version (a version number or a date)
  */
 public class Hola
@@ -18,16 +18,30 @@ public class Hola
         // initialise instance variables
         x = 0;
     }
-
     /**
-     * An example of a method - replace this comment with your own
+     * Este metodo mola que te cagas porque es el pricipal y sale 
+     * al ejecutar el objeto, en este caso escribe un texto en el 
+     * terminal y ejecuta el metodo sumar.
      * 
-     * @param  y   a sample parameter for a method
-     * @return     the sum of x and y 
+     * @see sumar
+     * @param no hay que introducir nada.
+     * @return no devuelve nada.
      */
-    public int sampleMethod(int y)
+    
+    public static void main()
     {
-        // put your code here
-        return x + y;
+        System.out.println("David apesta");
+        sumar();
+    }
+    /**
+     * Este método suma 1+1
+     *
+     * @param  Nada de nada
+     * @return    Devuelve un string de suma de dos unos, pero mal calculado.
+     */
+    public static String sumar()
+    {
+        return "1+1=1";
     }
 }
+
