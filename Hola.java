@@ -43,5 +43,9 @@ public class Hola
     {
         return "1+1=1";
     }
+    public void ander()
+    {
+        System.out.println("Ander");
+    }
 }
 
